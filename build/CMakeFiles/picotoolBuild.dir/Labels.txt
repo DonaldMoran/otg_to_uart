@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+/home/noneya/pico/otg_to_uart/build/CMakeFiles/picotoolBuild
+/home/noneya/pico/otg_to_uart/build/CMakeFiles/picotoolBuild.rule
+/home/noneya/pico/otg_to_uart/build/CMakeFiles/picotoolBuild-complete.rule
+/home/noneya/pico/otg_to_uart/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+/home/noneya/pico/otg_to_uart/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+/home/noneya/pico/otg_to_uart/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+/home/noneya/pico/otg_to_uart/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+/home/noneya/pico/otg_to_uart/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+/home/noneya/pico/otg_to_uart/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+/home/noneya/pico/otg_to_uart/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+/home/noneya/pico/otg_to_uart/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule

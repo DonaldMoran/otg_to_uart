@@ -1,0 +1,7 @@
+/home/noneya/pico/otg_to_uart/build/_deps/picotool/picotool
+/home/noneya/pico/otg_to_uart/build/_deps/picotool/picotoolTargets.cmake
+/home/noneya/pico/otg_to_uart/build/_deps/picotool/picotoolTargets-release.cmake
+/home/noneya/pico/otg_to_uart/build/_deps/picotool/picotoolConfig.cmake
+/home/noneya/pico/otg_to_uart/build/_deps/picotool/picotoolConfigVersion.cmake
+/home/noneya/pico/otg_to_uart/build/_deps/picotool/enc_bootloader.elf
+/home/noneya/pico/otg_to_uart/build/_deps/picotool/enc_bootloader_mbedtls.elf
